@@ -2,7 +2,7 @@
 
 * https://docs.google.com/presentation/d/12OVvM8LKplwVATZYYsgLzbZA4uSCh_nOSbVmmY9kgmU/edit?usp=sharing
 
-# CS部勉強会資料
+# 資料
 
 
 * Ruby 
